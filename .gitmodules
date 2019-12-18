@@ -9,7 +9,7 @@
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/CaspianGeben/CGMBLEKit.git
-	branch = dev
+	branch = dev-uploadtoNS
 [submodule "SwiftCharts"]
 	path = SwiftCharts
 	url = https://github.com/i-schuetz/SwiftCharts.git
